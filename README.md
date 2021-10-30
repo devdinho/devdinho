@@ -28,7 +28,7 @@
   </a> 
  
   
-<p align="center"><img src="https://profile-counter.glitch.me/{Luis-Felipe-N}/count.png" alt="Luis-Felipe-N" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Luis-Felipe-N}/count.svg" alt="Luis-Felipe-N" /></p>
 <br/>
 
 
