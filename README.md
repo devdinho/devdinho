@@ -19,7 +19,7 @@ Trabalho atualmente com Django na Universidade Federal do Tocantins.
 <div> 
   
   <a href="mailto:luisj2felipe09@gmail.com"  target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=mail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/anderson-freitas-736419230/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
