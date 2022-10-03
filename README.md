@@ -1,11 +1,11 @@
-## Oi, Sou o Luis Felipe!
+## Oi, Sou o Anderson Freitas!
 
 Dev Front-end estudando ReactJS e TypeScript.
 Trabalho atualmente com Django na Universidade Federal do Tocantins.
 
 <div align="center">
-  <a href="https://luisfelipe.tech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-felipe-n&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <a href="https://freitas.codes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasanderson&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-felipe-n&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
