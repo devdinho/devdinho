@@ -1,11 +1,11 @@
 ## Oi, Sou o Anderson Freitas!
 
-Dev Front-end estudando ReactJS e TypeScript.
-Trabalho atualmente com Django na Universidade Federal do Tocantins.
+Dev Full-stack.
+Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro Colaborador em Alimentação e Nutrição do Escolar do Tocantins.
 
 <div align="center">
   <a href="https://freitas.codes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasanderson&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasanderson&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasanderson&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@ Trabalho atualmente com Django na Universidade Federal do Tocantins.
  
 <div> 
   
-  <a href="mailto:luisj2felipe09@gmail.com"  target="_blank">
+  <a href="mailto:freitas.dev@proton.me"  target="_blank">
     <img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/anderson-freitas-736419230/" target="_blank">
