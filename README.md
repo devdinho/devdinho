@@ -1,8 +1,10 @@
-## Oi eu sou o Anderson Freitas, Dev Full Stack. Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro Colaborador em Alimentação e Nutrição do Escolar do Tocantins!
+## Oi eu sou o Anderson Freitas, Dev Full Stack.
+
+Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro Colaborador em Alimentação e Nutrição do Escolar do Tocantins!
 <div align="center">
   <a href="freitas.codes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasanderson&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasanderson&layout=compact&langs_count=7&theme=prussian"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -24,8 +26,12 @@
   </a>
   <a href="https://www.linkedin.com/in/anderson-freitas-736419230/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
+ 
+</div>
+ 
+<div>
+ 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
  
 </div>
