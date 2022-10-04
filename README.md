@@ -1,13 +1,10 @@
-## Oi, Sou o Anderson Freitas!
-
-Dev Full stack.
-Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro Colaborador em Alimentação e Nutrição do Escolar do Tocantins.
-
+## Oi eu sou o Anderson Freitas, Dev Full Stack. Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro Colaborador em Alimentação e Nutrição do Escolar do Tocantins!
 <div align="center">
-  <a href="https://freitas.codes">
+  <a href="freitas.codes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasanderson&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasanderson&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=prussian"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +19,6 @@ Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro 
   ##
  
 <div> 
-  
   <a href="mailto:freitas.dev@proton.me"  target="_blank">
     <img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -31,6 +27,5 @@ Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro 
   </a> 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-<br/>
-
+ 
 </div>
