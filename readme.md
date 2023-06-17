@@ -10,6 +10,8 @@ Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro 
     </a>
 </div>
 
+##
+
 <div align="center">
   
   <a href="https://freitas.codes">
