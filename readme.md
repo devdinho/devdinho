@@ -15,15 +15,14 @@ Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro 
 <div align="center">
   
   <a href="https://freitas.codes">
-    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freitasanderson&hide=contribs,issues&bg_color=0,5c686e,008dd4&title_color=fff&text_color=fff)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freitasanderson&hide_progress=true&bg_color=0,008dd4,5c686e&title_color=fff&text_color=fff)
-    
+      
+  ![Anderson Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=freitasanderson&show_icons=true&include_all_commits=True&bg_color=000021&theme=transparent&title_color=C3DD00&text_color=C3DD00)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=freitasanderson&theme=navy-gear&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&border=D8ECF6)](https://git.io/streak-stats)
   </a>
 </div> 
 <div align="center">
  
-  ![Anderson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freitasanderson&layout=compact&bg_color=0,5c686e,008dd4&title_color=fff&text_color=fff)
+  ![Anderson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freitasanderson&layout=compact&bg_color=000021&title_color=C3DD00&text_color=fff)
  
 </div>    
   
