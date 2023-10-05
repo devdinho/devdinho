@@ -16,7 +16,7 @@ Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro 
   
   <a href="https://freitas.codes">
       
-  ![Anderson Freitas GitHub stats](https://github-readme-stats-ffpu2527p-freitasanderson.vercel.app/api?username=freitasanderson&show_icons=true&include_all_commits=True&bg_color=000021&theme=transparent&title_color=C3DD00&text_color=C3DD00)
+  <!--![Anderson Freitas GitHub stats](https://github-readme-stats-ffpu2527p-freitasanderson.vercel.app/api?username=freitasanderson&show_icons=true&include_all_commits=True&bg_color=000021&theme=transparent&title_color=C3DD00&text_color=C3DD00)-->
   [![GitHub Streak](http://github-readme-streak-stats-two-drab.vercel.app?user=freitasanderson&theme=navy-gear&card_width=350&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&border=D8ECF6)](https://git.io/streak-stats)
   </a>
 </div> 
