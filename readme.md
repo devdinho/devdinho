@@ -1,6 +1,12 @@
-## Oi eu sou o Anderson Freitas, Dev Full Stack.
+## &#9997; Olá, eu sou o &#8491;nderson &#8497;reitas, Desenvolvedor &#8497;ull Stack.
 
-Trabalho atualmente com Django na Universidade Federal do Tocantins e no Centro Colaborador em Alimentação e Nutrição do Escolar do Tocantins!
+&#x276C;Trabalho atualmente com Python e Django e faço parte do setor de desenvolvimento da Universidade Federal do Tocantins (UFT) e do Centro Colaborador em Alimentação e Nutrição do Escolar do Tocantins (Cecane-TO).
+**⧸**&#x276D;
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,jquery,bootstrap,django,figma,kotlin,linux,mysql,postman,py,vscode" />
+  </a>
+</p>
 <div align="center"> 
     <a href="mailto:freitas.dev@proton.me"  target="_blank">
       <img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
