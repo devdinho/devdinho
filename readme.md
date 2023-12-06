@@ -35,7 +35,7 @@
 <div align="center">
   <a href="https://freitas.codes">
  
-  ![Anderson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freitasanderson&layout=compact&bg_color=000021&title_color=C3DD00&text_color=fff)
+  ![Anderson's wakatime stats](https://github-readme-stats-freitasanderson.vercel.app/api/wakatime?username=freitasanderson&layout=compact&bg_color=000021&title_color=C3DD00&text_color=fff)
  </a>
 </div> 
  
