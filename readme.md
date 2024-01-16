@@ -17,14 +17,15 @@
 </div>
 
 ##
-<!-- 
+<!--
 <div align="center">
   <a href="https://freitas.codes">
   
-  [![Anderson Freitas' GitHub Stats](https://github-readme-stats-ffpu2527p-freitasanderson.vercel.app/api?username=freitasanderson&show_icons=true&bg_color=000021&theme=transparent&title_color=C3DD00&text_color=C3DD00)](https://freitas.codes)
+  [![Anderson Freitas' GitHub Stats](https://github-readme-stats-ffpu2527p-freitasanderson.vercel.app/api?username=freitasanderson&show_icons=true&include_all_commits=true&bg_color=000021&theme=transparent&title_color=C3DD00&text_color=C3DD00)](https://freitas.codes)
   </a>
 </div> 
 -->
+
 <div align="center">
   <a href="https://freitas.codes">
   
