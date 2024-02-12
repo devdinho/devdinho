@@ -20,7 +20,7 @@
 <div align="center">
   <a href="https://freitascodes.me">
   
-  [![Anderson Freitas' GitHub Stats](https://github-readme-stats-ffpu2527p-freitasanderson.vercel.app/api?username=freitasanderson&show_icons=true&include_all_commits=true&bg_color=000021&theme=transparent&title_color=C3DD00&text_color=C3DD00)](https://freitas.codes)
+  [![Anderson Freitas' GitHub Stats](https://github-readme-stats-ffpu2527p-freitasanderson.vercel.app/api?username=freitasanderson&show_icons=true&include_all_commits=true&bg_color=000021&theme=transparent&title_color=C3DD00&text_color=C3DD00)](https://freitascodes.me)
   <!--
   </a>
 </div> 
@@ -29,7 +29,7 @@
   <a href="https://freitascodes.me">
   -->
       
-  [![GitHub Streak](https://github-readme-streak-stats-two-drab.vercel.app?user=freitasanderson&theme=navy-gear&card_width=350&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&border=D8ECF6)](https://freitas.codes)
+  [![GitHub Streak](https://github-readme-streak-stats-two-drab.vercel.app?user=freitasanderson&theme=navy-gear&card_width=350&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&border=D8ECF6)](https://freitascodes.me)
   </a>
 </div> 
 <div align="center">
