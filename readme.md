@@ -1,6 +1,6 @@
 ## &#9997; Olá, eu sou o &#8491;nderson &#8497;reitas, Desenvolvedor &#8497;ull Stack.
 
-&#x276C;Trabalho atualmente com Python e Django e faço parte do setor de desenvolvimento da Universidade Federal do Tocantins (UFT) e do Centro Colaborador em Alimentação e Nutrição do Escolar do Tocantins (Cecane-TO).
+&#x276C;Trabalho atualmente com Python e Django e faço parte da Diretoria de Soluções Digitais (DSD) da Universidade Federal do Tocantins (UFT) e do Centro Colaborador em Alimentação e Nutrição do Escolar do Tocantins (Cecane-TO).
 **⧸**&#x276D;
 <p align="center">
   <a href="">
