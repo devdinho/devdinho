@@ -1,7 +1,6 @@
-## &#9997; Olá, eu sou o &#8491;nderson &#8497;reitas, Desenvolvedor &#8497;ull Stack.
+## &#9997; Olá, eu sou o &#8491;nderson Freitas, Desenvolvedor &#8497;ull Stack.
 
-&#x276C;Trabalho atualmente com Python e Django e faço parte da Diretoria de Soluções Digitais (DSD) da Universidade Federal do Tocantins (UFT) e do Centro Colaborador em Alimentação e Nutrição do Escolar do Tocantins (Cecane-TO).
-**⧸**&#x276D;
+&#x276C;profile&#x276D;
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,jquery,bootstrap,django,figma,kotlin,linux,mysql,postman,py,vscode" />
@@ -38,7 +37,4 @@
   ![Anderson's wakatime stats](https://github-readme-stats-freitasanderson.vercel.app/api/wakatime?username=freitasanderson&layout=compact&bg_color=000021&title_color=C3DD00&text_color=fff)
  </a>
 </div> 
- 
-
-
-
+ &#x276C;profile⧸&#x276D;
