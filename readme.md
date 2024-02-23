@@ -16,25 +16,27 @@
 </div>
 
 ##
-<!--
-<div align="center">
-  <a href="https://freitascodes.me">
+<table align="center">
+  <tr>
+    <td valign="center">
+      <a href="https://freitascodes.me">
   
-  [![Anderson Freitas' GitHub Stats](https://github-readme-stats-ffpu2527p-freitasanderson.vercel.app/api?username=freitasanderson&show_icons=true&include_all_commits=true&bg_color=000021&theme=transparent&title_color=C3DD00&text_color=C3DD00)](https://freitascodes.me)
+  [![Anderson Freitas' GitHub Stats](https://github-readme-stats-ffpu2527p-freitasanderson.vercel.app/api?username=freitasanderson&show_icons=true&include_all_commits=true&bg_color=193549&theme=transparent&title_color=FBC401&text_color=FFFFFF)](https://freitascodes.me)
+  </a>
+    </td>
+    <td valign="center">
+     <a href="https://freitascodes.me">
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=freitasanderson&theme=cobalt2&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
   </a>
-</div> 
--->
-<div align="center">
-  <a href="https://freitascodes.me">
-      
-  [![GitHub Streak](https://github-readme-streak-stats-two-drab.vercel.app?user=freitasanderson&theme=navy-gear&card_width=350&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&border=D8ECF6)](https://freitascodes.me)
-  </a>
-</div> 
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <a href="https://freitascodes.me">
  
-  ![Anderson's wakatime stats](https://github-readme-stats-freitasanderson.vercel.app/api/wakatime?username=freitasanderson&layout=compact&bg_color=000021&title_color=C3DD00&text_color=fff)
+  ![Anderson's wakatime stats](https://github-readme-stats-freitasanderson.vercel.app/api/wakatime?username=freitasanderson&layout=compact&bg_color=193549&title_color=FBC401&text_color=fff)
  </a>
 </div> 
  &#x276C;profile⧸&#x276D;
