@@ -21,7 +21,7 @@
     <td valign="center">
       <a href="https://freitascodes.me">
   
-  [![Anderson Freitas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=freitasanderson&show_icons=true&include_all_commits=true&bg_color=193549&theme=transparent&title_color=FBC401&text_color=FFFFFF)](https://freitascodes.me)
+  [![Anderson Freitas' GitHub Stats](https://github-readme-stats-iota-bice-27.vercel.app/api?username=freitasanderson&show_icons=true&include_all_commits=true&bg_color=193549&theme=transparent&title_color=FBC401&text_color=FFFFFF)](https://freitascodes.me)
   </a>
     </td>
     <td valign="center">
