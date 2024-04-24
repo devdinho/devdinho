@@ -27,7 +27,7 @@
     <td valign="center">
      <a href="https://freitascodes.me">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=freitasanderson&theme=cobalt2&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-two-drab.vercel.app/?user=freitasanderson&theme=cobalt2&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
   </a>
     </td>
   </tr>
