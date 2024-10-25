@@ -38,7 +38,7 @@ Anderson Freitas</a></h1>
 <h2> Status <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-stats-one-theta-41.vercel.app/api?username=freitasanderson1&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&starting_year=2022&card_width=400&bg_color=121b22&theme=transparent&title_color=00A884&text_color=FFFFFF" alt="Anderson Freitas 's GitHub Stats">
+      <img src="https://github-readme-stats-one-theta-41.vercel.app/api?username=freitasanderson1&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&card_width=400&bg_color=121b22&theme=transparent&title_color=00A884&text_color=FFFFFF" alt="Anderson Freitas 's GitHub Stats">
       <img src="https://github-readme-streak-stats-git-main-freitasanderson1s-projects.vercel.app/?user=freitasanderson1&starting_year=2022&theme=whatsapp-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=400&border=E4E2E2" alt="GitHub Streak" />
     </a>
 </div>
