@@ -36,7 +36,7 @@ Anderson Freitas</a></h1>
 <br/>
 <div>
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-stats-one-theta-41.vercel.app/api?username=freitasanderson1&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&card_width=300&bg_color=121b22&theme=transparent&title_color=00A884&text_color=FFFFFF" alt="Anderson Freitas 's GitHub Stats">
+      <img src="https://github-readme-stats-one-theta-41.vercel.app/api?username=freitasanderson1&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&card_width=400&bg_color=121b22&theme=transparent&title_color=00A884&text_color=FFFFFF" alt="Anderson Freitas 's GitHub Stats">
       <img src="https://github-readme-streak-stats-git-main-freitasanderson1s-projects.vercel.app/?user=freitasanderson1&starting_year=2022&theme=whatsapp-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=400&border=E4E2E2" alt="GitHub Streak" />
     </a>
 </div>
