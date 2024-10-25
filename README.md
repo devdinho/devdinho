@@ -1,28 +1,44 @@
-## Olá, eu sou o Anderson Freitas, Desenvolvedor Full Stack.&#9997;
-<p align="center">
+<h1 align="center">Olá 👋, Eu sou <a href="https://freitascodes.me/" target="blank">
+Anderson Freitas</a></h1>
+<h3 align="center">Desenvolvedor Full Stack comprometido com a criação de soluções inovadoras e impactantes no Brasil 🇧🇷</h3>
 
-  Sou Desenvolvedor Full Stack com 3 anos de experiência. Sou especializado na criação de sistemas complexos, desde pequenos a grandes projetos, sempre garantindo a integridade dos sistemas e dos dados, com um foco especial na celeridade dos processos para entregar soluções robustas e impactantes. 
-</p>
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,bootstrap,css,django,docker,express,figma,flask,git,github,html,java,javascript,jquery,kali,kotlin,kubernetes,linux,md,mongodb,mysql,nginx,nodejs,postgres,postman,py,react,rust,tailwind,vscode&perline=32" />
-<p align="center">
-  <img src="https://freitascodes.me/assets/sobremimNerdola.png" style="margin-left: auto; margin-right: auto;"/>    
-</p>
+<h3 align="center"><a href="https://freitascodes.me/" target="_blank"> <img src="https://komarev.com/ghpvc/?username=freitasanderson1&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="freitasanderson1" /> </a></h3>
 
-<div align="center"> 
-    <a href="mailto:freitas.dev@proton.me"  target="_blank">
-      <img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://freitascodes.me/" target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://freitascodes.me/assets/nerdola.gif">
+</a>
+
+- 🔭 Atualmente estou desenvolvendo o <a href="https://github.com/freitasanderson1" target="blank">meu projeto de dashboard e visualização de dados</a>
+
+- 🌱 Trabalho com desenvolvimento Full Stack utilizando **Python**, **Django**, **React**, **Kotlin** e **Angular**
+
+- 🤝 Estou disponível para oportunidades remotas.
+
+- 🌐 Explorando mais sobre **desenvolvimento assíncrono no Django** para otimizar a performance de aplicações
+
+- 💬 Fique à vontade para perguntar sobre **Python, Django, React, Kotlin e Angular**
+
+- 🐍 Minhas bibliotecas Python estão disponíveis no [PyPI](https://pypi.org/user/freitasanderson/)
+
+- 📫 Como me contatar:
+  - **Email**: freitas.dev@proton.me
+  - **LinkedIn**: [Perfil](https://www.linkedin.com/in/freitas-anderson)
+
+- 📄 Saiba mais sobre minhas experiências no meu <a href="https://docs.google.com/document/d/11t3aLp1gDjaZflsFp3EF8voQPeLZW9mE/edit?usp=sharing&ouid=105406676409194987099&rtpof=true&sd=true" target="blank">Currículo</a>
+
+<br/>
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href="https://github.com/freitasanderson1?tab=repositories" target="_blank">
+  <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,bootstrap,css,django,docker,express,figma,flask,git,github,html,java,javascript,jquery,kali,kotlin,kubernetes,linux,md,mongodb,mysql,nginx,nodejs,postgres,postman,py,react,rust,tailwind,vscode&perline=32" />
+</a>
+
+<br/>
+<div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-stats-one-theta-41.vercel.app/api?username=freitasanderson1&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&card_width=400&bg_color=121b22&theme=transparent&title_color=00A884&text_color=FFFFFF" alt="Anderson Freitas 's GitHub Stats">
+      <img src="https://github-readme-streak-stats-git-main-freitasanderson1s-projects.vercel.app/?user=freitasanderson1&starting_year=2022&theme=whatsapp-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=400&border=E4E2E2" alt="GitHub Streak" />
     </a>
-    <a href="https://www.linkedin.com/in/anderson-freitas-736419230/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-</div>
-
-
-
-##
-<div style="display:flex; justify-content: start; flex-direction: column; align-items: center;">
-    <img style="margin: 4rem; margin-top:0;" src="https://github-readme-stats-one-theta-41.vercel.app/api?username=freitasanderson1&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&card_width=400&bg_color=121b22&theme=transparent&title_color=00A884&text_color=FFFFFF" alt="Anderson Freitas 's GitHub Stats">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-freitasanderson1s-projects.vercel.app/?user=freitasanderson1&starting_year=2022&theme=whatsapp-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=400&border=E4E2E2" alt="GitHub Streak" /></a>
 </div>
 <p align="center">
   <img src="https://github-readme-stats-freitasanderson.vercel.app/api/wakatime?username=freitasanderson&layout=compact&bg_color=121b22&title_color=00A884&text_color=fff" alt="WakaTime Stats" style="margin-left: auto; margin-right: auto;">
