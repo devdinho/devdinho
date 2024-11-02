@@ -8,7 +8,7 @@ Anderson Freitas</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://freitascodes.me/assets/nerdola.gif">
 </a>
 
-- 🔭 Atualmente estou desenvolvendo o <a href="https://github.com/freitasanderson1/webChatDjango" target="blank">meu projeto de WebChat</a>
+- 🔭 Atualmente estou desenvolvendo o meu projeto de rede social <a href="https://github.com/freitasanderson1/FlowSpace" target="blank">Flowspace</a>
 
 - 🌱 Trabalho com desenvolvimento Full Stack utilizando **Python**, **Django**, **React**, **Kotlin** e **Angular**
 
