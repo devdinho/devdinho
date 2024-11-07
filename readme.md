@@ -19,6 +19,7 @@ Anderson Freitas</a></h1>
 - 💬 Fique à vontade para perguntar sobre **Python, Django, React, Kotlin e Angular**
 
 - 🐍 Minhas bibliotecas Python estão disponíveis no [PyPI](https://pypi.org/user/freitasanderson/)
+  - 🐍 Conheça a [MaterialDash](https://pypi.org/project/materialdash/). Uma interface de administração moderna e responsiva para Django, baseada em Material Design.
 
 - 📫 Como me contatar:
   - **Email**: freitas.dev@proton.me
