@@ -16,7 +16,7 @@ Anderson Freitas</a></h1>
 
 - 🌐 Explorando mais sobre **desenvolvimento assíncrono no Django** para otimizar a performance de aplicações
 
-- 💬 Fique à vontade para perguntar sobre **Python, Django, React, Kotlin e Angular**
+- 💬 Fique à vontade para perguntar sobre **Python, Django, Javascript, Typescript, React e Angular**
 
 - 🐍 Minhas bibliotecas Python estão disponíveis no [PyPI](https://pypi.org/user/freitasanderson/)
   - 🐍 Conheça a [MaterialDash](https://pypi.org/project/materialdash/). Uma interface de administração moderna e responsiva para Django, baseada em Material Design.
