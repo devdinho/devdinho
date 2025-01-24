@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou <a href="https://freitascodes.me/" target="blank">
+<h1 align="center">Olá 👋, Eu sou <a href="https://dinho.dev/" target="blank">
 Anderson Freitas</a></h1>
 <h3 align="center">Desenvolvedor Full Stack comprometido com a criação de soluções inovadoras e impactantes no Brasil 🇧🇷</h3>
 
