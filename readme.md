@@ -2,13 +2,13 @@
 Anderson Freitas</a></h1>
 <h3 align="center">Desenvolvedor Full Stack comprometido com a criação de soluções inovadoras e impactantes no Brasil 🇧🇷</h3>
 
-<h3 align="center"><a href="https://freitascodes.me/" target="_blank"> <img src="https://komarev.com/ghpvc/?username=freitasanderson1&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="freitasanderson1" /> </a></h3>
+<h3 align="center"><a href="https://freitascodes.me/" target="_blank"> <img src="https://komarev.com/ghpvc/?username=devdinho&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="devdinho" /> </a></h3>
 
-<a href="https://freitascodes.me/" target="_blank" align="center">
+<a href="https://dinho.dev/" target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://freitascodes.me/assets/nerdola.gif">
 </a>
 
-- 🔭 Atualmente estou desenvolvendo o meu projeto de rede social <a href="https://github.com/freitasanderson1/FlowSpace" target="blank">Flowspace</a>
+- 🔭 Atualmente estou desenvolvendo o meu projeto de rede social <a href="https://github.com/devdinho/FlowSpace" target="blank">Flowspace</a>
 
 - 🌱 Trabalho com desenvolvimento Full Stack utilizando **Python**, **Django**, **React**, **Kotlin** e **Angular**
 
@@ -30,7 +30,7 @@ Anderson Freitas</a></h1>
 <br/>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://github.com/freitasanderson1?tab=repositories" target="_blank">
+<a href="https://github.com/devdinho?tab=repositories" target="_blank">
   <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,bootstrap,css,django,docker,express,figma,flask,git,github,html,java,javascript,jquery,kali,kotlin,kubernetes,linux,md,mongodb,mysql,nginx,nodejs,postgres,postman,py,react,rust,tailwind,vscode&perline=32" />
 </a>
 
@@ -39,8 +39,8 @@ Anderson Freitas</a></h1>
 <h2> Status <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-stats-one-theta-41.vercel.app/api?username=freitasanderson1&locale=pt-br&show_icons=true&include_all_commits=true&rank_icon=github&count_private=true&card_width=400&bg_color=121b22&theme=transparent&title_color=00A884&text_color=FFFFFF" alt="Anderson Freitas 's GitHub Stats">
-      <img src="https://github-readme-streak-stats-git-main-freitasanderson1s-projects.vercel.app/?user=freitasanderson1&starting_year=2022&theme=whatsapp-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=400&border=E4E2E2" alt="GitHub Streak" />
+      <img src="https://github-readme-stats-one-theta-41.vercel.app/api?username=devdinho&locale=pt-br&show_icons=true&include_all_commits=true&rank_icon=github&count_private=true&card_width=400&bg_color=121b22&theme=transparent&title_color=00A884&text_color=FFFFFF" alt="Anderson Freitas 's GitHub Stats">
+      <img src="https://github-readme-streak-stats-git-main-freitasanderson1s-projects.vercel.app/?user=devdinho&starting_year=2022&theme=whatsapp-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=400&border=E4E2E2" alt="GitHub Streak" />
     </a>
 </div>
 <p align="center">
