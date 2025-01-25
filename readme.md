@@ -2,15 +2,15 @@
 Anderson Freitas</a></h1>
 <h3 align="center">Desenvolvedor Full Stack comprometido com a criação de soluções inovadoras e impactantes no Brasil 🇧🇷</h3>
 
-<h3 align="center"><a href="https://freitascodes.me/" target="_blank"> <img src="https://komarev.com/ghpvc/?username=devdinho&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="devdinho" /> </a></h3>
+<h3 align="center"><a href="https://dinho.dev/" target="_blank"> <img src="https://komarev.com/ghpvc/?username=devdinho&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="devdinho" /> </a></h3>
 
 <a href="https://dinho.dev/" target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://freitascodes.me/assets/nerdola.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://dinho.dev/assets/nerdola.gif">
 </a>
 
 - 🔭 Atualmente estou desenvolvendo o meu projeto de rede social <a href="https://github.com/devdinho/FlowSpace" target="blank">Flowspace</a>
 
-- 🌱 Trabalho com desenvolvimento Full Stack utilizando **Python**, **Django**, **React**, **Kotlin** e **Angular**
+- 🌱 Trabalho com desenvolvimento Full Stack utilizando **Python**, **Django**, **React** e **Angular**
 
 - 🤝 Estou disponível para oportunidades remotas.
 
