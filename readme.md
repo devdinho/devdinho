@@ -16,9 +16,9 @@
   - 🔹 O [**LumiCore**](https://github.com/devdinho/LumiCore) é um backend em Django que gerencia os dados e se comunica com o modelo.
   - 🔹 O [**LumiDash**](https://github.com/devdinho/LumiDash) é a interface frontend desenvolvida com Next.js para exibir os insights de forma visual e interativa.
 
-- 🧠 Estudando mais sobre **desenvolvimento assíncrono em Django** e otimização de sistemas orientados a dados.
+- 🧠 Estudando mais sobre **Modelos de linguagem (LLM)** e DevOps.
 
-- 🌱 Stack principal: **Python**, **Django**, **React**, **Vue**, **Next.js**, **Angular** e **Docker**
+- 🌱 Stack principal: **Python**, **Django**, **React**, **Vue**, **Next.js**, **Express** e **Docker**
 
 - 💬 Fique à vontade para conversar sobre: **Python, Django, JavaScript, TypeScript, React, LLMs, visualização de dados**
 
