@@ -50,5 +50,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-freitasanderson.vercel.app/api/wakatime?username=freitasanderson&layout=compact&bg_color=121b22&title_color=00A884&text_color=fff" alt="WakaTime Stats" />
+  <a href="https://dinho.dev">
+    <img src="https://github-readme-stats-freitasanderson.vercel.app/api/wakatime?username=freitasanderson&layout=compact&bg_color=121b22&title_color=00A884&text_color=fff" alt="WakaTime Stats" />
+  </a>
 </p>
