@@ -8,7 +8,7 @@
 </p>
 
 <a href="https://dinho.dev/" target="_blank" align="center">
-  <img align="right" height="300" width="400" alt="GIF" src="https://dinho.dev/assets/nerdola.gif">
+  <img align="right" height="300" width="400" alt="GIF" src="https://baldino.dinho.dev/baldino-public/portifolio/assets/nerdola.gif">
 </a>
 
 - 🔭 Atualmente desenvolvo o **Lumi**, uma plataforma de visualização e interpretação de dados com dashboards interativos e modelos de linguagem (LLMs).
@@ -30,13 +30,6 @@
   - **LinkedIn**: [Perfil](https://www.linkedin.com/in/freitas-anderson)
 
 - 📄 Veja meu <a href="https://baldino.dinho.dev/baldino-public/portifolio/Anderson%20Freitas%20-%20Dev%20FullStack.pdf" target="_blank">Currículo</a>
-
----
-
-<h2>⚙️ Tecnologias & Ferramentas</h2>
-<a href="https://github.com/devdinho?tab=repositories" target="_blank">
-  <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,bootstrap,css,django,docker,express,figma,flask,git,github,html,java,javascript,jquery,kali,kotlin,kubernetes,linux,md,mongodb,mysql,nginx,nodejs,postgres,postman,py,react,rust,tailwind,vscode&perline=32" />
-</a>
 
 ---
 
