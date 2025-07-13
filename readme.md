@@ -29,7 +29,7 @@
   - **Email**: freitas.dev@proton.me
   - **LinkedIn**: [Perfil](https://www.linkedin.com/in/freitas-anderson)
 
-- 📄 Veja meu <a href="https://docs.google.com/document/d/11t3aLp1gDjaZflsFp3EF8voQPeLZW9mE/edit?usp=sharing" target="_blank">Currículo</a>
+- 📄 Veja meu <a href="https://baldino.dinho.dev/baldino-public/portifolio/Anderson%20Freitas%20-%20Dev%20FullStack.pdf" target="_blank">Currículo</a>
 
 ---
 
