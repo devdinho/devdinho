@@ -53,8 +53,8 @@
 
 <div align="center">
   <a href="https://dinho.dev">
-    <img src="https://github-readme-stats-one-theta-41.vercel.app/api?username=devdinho&show_icons=true&include_all_commits=true&count_private=true&bg_color=121b22&theme=transparent&title_color=0499c9&text_color=FFFFFF" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats-git-main-freitasanderson1s-projects.vercel.app/?user=devdinho&theme=whatsapp-dark&currStreakNum=0499C9&sideNums=0499C9&dates=0499C9&border=EBEBEB" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats-one-theta-41.vercel.app/api?username=devdinho&show_icons=true&include_all_commits=true&count_private=true&bg_color=121b22&theme=transparent&title_color=0499c9&text_color=FFFFFF&card_width=400" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats-git-main-freitasanderson1s-projects.vercel.app/?user=devdinho&theme=whatsapp-dark&currStreakNum=0499C9&sideNums=0499C9&dates=0499C9&border=EBEBEB&card_width=400&starting_year=2022&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
   </a>
 </div>
 
