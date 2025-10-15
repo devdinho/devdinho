@@ -1,5 +1,7 @@
 <h1 align="center">Olá 👋, eu sou <a href="https://dinho.dev/" target="_blank">Anderson Freitas</a></h1>
-<h3 align="center">Desenvolvedor Full Stack | Python • Django • React • C# • .NET • DevOps</h3>
+<h3 align="center">Desenvolvedor Full Stack | Python • Django • React • TypeScript • DevOps</h3>
+
+<h4 align="center">Construindo soluções escaláveis que unem design, dados e performance ⚡</h4>
 
 <p align="center">
   <a href="https://dinho.dev/" target="_blank">
@@ -7,27 +9,45 @@
   </a>
 </p>
 
-<a href="https://dinho.dev/" target="_blank" align="center">
-  <img align="right" height="280" width="380" alt="GIF" src="https://baldino.dinho.dev/baldino-public/portifolio/assets/nerdola.gif">
-</a>
+---
 
 ## 🚀 Sobre mim
-- 💻 Desenvolvedor **Full Stack** apaixonado por criar soluções que transformam ideias em produtos reais.  
-- 🔭 Atualmente lidero o desenvolvimento do **[Lumi](https://github.com/devdinho/LumiDash)**, uma plataforma de **visualização de dados** com **dashboards interativos** e **LLMs**:  
-  - 🧩 [**Billumy**](https://github.com/devdinho/Billumy) → modelo de linguagem personalizado para interpretar dados  
-  - ⚙️ [**LumiCore**](https://github.com/devdinho/LumiCore) → backend em Django que conecta dados e modelo  
-  - 🎨 [**LumiDash**](https://github.com/devdinho/LumiDash) → frontend em Next.js para insights visuais  
-- 🖥️ Também desenvolvo o **[Nubo Management System (NMS)](https://github.com/devdinho/NMS)** – interface administrativa para gerenciar recursos dinâmicos (como feature flags e ambientes).  
-- ⚙️ O **[NuboCore](https://github.com/devdinho/NuboCore)** complementa o NMS com um backend em Django para integração e orquestração de dados.  
-- 📡 O **[NuboPulse](https://github.com/devdinho/nubopulse)** é uma plataforma de monitoramento e orquestração de infraestrutura, responsável pelo controle de containers, observabilidade e execução de comandos remotos.  
-- 🖥️ O **[NuboPanel](https://github.com/devdinho/NuboPanel)** é o frontend do **NuboPulse**, construído em React + Vite, oferecendo uma interface limpa e interativa para gerenciamento da infraestrutura.  
-- 📦 Autor de bibliotecas no [PyPI](https://pypi.org/user/freitasanderson/), incluindo a [MaterialDash](https://pypi.org/project/materialdash/).  
-- 🌱 Estudando aprofundamento em **LLMs**, **Arquitetura de Software** e **engenharia de sistemas distribuídos**.  
+
+Sou desenvolvedor **Full Stack** com foco em **Python, Django e React**, apaixonado por transformar ideias em produtos reais.  
+Atuo em projetos que envolvem **integrações complexas**, **arquitetura escalável** e **experiência do usuário fluida**.
+
+Atualmente lidero o desenvolvimento do **[Lumi](https://github.com/devdinho/LumiDash)** — uma plataforma de **visualização e interpretação de dados** com dashboards interativos e integração com LLMs.  
+Também desenvolvo o ecossistema **Nubo**, voltado para **monitoramento e orquestração de infraestrutura** em ambiente distribuído.
+
+### 🧩 Projetos principais
+
+- 🧠 [**Billumy**](https://github.com/devdinho/Billumy): modelo de linguagem customizado para interpretação semântica de dados.  
+- ⚙️ [**LumiCore**](https://github.com/devdinho/LumiCore): backend Django que conecta fontes de dados e o LLM Billumy.  
+- 🎨 [**LumiDash**](https://github.com/devdinho/LumiDash): frontend em Next.js com dashboards dinâmicos e data storytelling.  
+- 🖥️ [**Nubo Management System (NMS)**](https://github.com/devdinho/NMS): interface administrativa para gerenciar recursos dinâmicos e feature flags.  
+- 📡 [**NuboPulse**](https://github.com/devdinho/nubopulse): plataforma de observabilidade e orquestração de containers.  
+- ⚙️ [**NuboCore**](https://github.com/devdinho/NuboCore): backend Django para integração e controle de dados do Nubo.  
+- 🧭 [**NuboPanel**](https://github.com/devdinho/NuboPanel): frontend em React + Vite para gestão visual da infraestrutura.
+- 🛡️ [**ArmoredDjango**](https://github.com/devdinho/ArmoredDjango): base template em Django com autenticação, gerenciamento de perfis e estrutura pronta com Docker, lint e testes — ideal como ponto de partida arquitetural.  
+
+Sou também **autor de bibliotecas publicadas no [PyPI](https://pypi.org/user/freitasanderson/)**, como a [MaterialDash](https://pypi.org/project/materialdash/).  
+
+Atualmente estudando aprofundamento em **LLMs**, **arquitetura de software** e **engenharia de sistemas distribuídos**.
+
+---
+
+## 💼 Como trabalho
+
+- 🤝 Valorizo colaboração e comunicação clara entre times técnicos e de produto.  
+- ⚙️ Foco em **qualidade de código**, **boas práticas (SOLID, Clean Architecture)** e **testes**.  
+- 🚀 Mentalidade de crescimento constante, curiosidade técnica e busca por aprendizado contínuo.  
+- 🧩 Gosto de unir design, dados e engenharia para criar produtos que realmente entregam valor.  
 
 ---
 
 ## 🛠️ Tecnologias & Stacks
-<p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -43,13 +63,15 @@
 ---
 
 ## 📫 Contato
-- ✉️ **Email**: freitas.dev@proton.me  
-- 💼 **LinkedIn**: [freitas-anderson](https://www.linkedin.com/in/freitas-anderson)  
-- 📄 **Currículo**: [Baixar PDF](https://baldino.dinho.dev/baldino-public/portifolio/Anderson%20Freitas%20-%20Dev%20FullStack.pdf)  
+
+- ✉️ **Email:** [freitas.dev@proton.me](mailto:freitas.dev@proton.me)  
+- 💼 **LinkedIn:** [freitas-anderson](https://www.linkedin.com/in/freitas-anderson)  
+- 📄 **Currículo:** [Baixar PDF](https://baldino.dinho.dev/baldino-public/portifolio/Anderson%20Freitas%20-%20Dev%20FullStack.pdf)  
+- 🌐 **Portfólio:** [dinho.dev](https://dinho.dev)
 
 ---
 
-## 📊 Status do GitHub
+## 📈 Minhas estatísticas
 
 <div align="center">
   <a href="https://dinho.dev">
