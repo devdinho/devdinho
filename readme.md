@@ -85,7 +85,7 @@ Também sou autor de pacotes publicados no **PyPI**, como o [MaterialDash](https
 
 - ✉️ **Email:** freitas.dev@proton.me  
 - 💼 **LinkedIn:** https://linkedin.com/in/freitas-anderson  
-- 📄 **Currículo:** https://baldino.dinho.dev/baldino-public/portifolio/Anderson%20Freitas%20-%20Dev%20FullStack.pdf  
+- 📄 **Currículo (PDF):** https://dinho.dev/anderson-freitas-cv-pt-br.pdf
 - 🌐 **Portfólio:** https://dinho.dev  
 
 ---
