@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou <a href="https://dinho.dev" target="_blank">Anderson Freitas</a></h1>
-<h3 align="center">Desenvolvedor Backend / Full Stack • Python | Django | FastAPI | React | DevOps</h3>
+<h3 align="center">Full Stack Engineer • Backend & AI Platform • Python | Django | FastAPI | Go | React | AWS</h3>
 
-<h4 align="center">Engenharia de software focada em sistemas escaláveis, dados e performance ⚡</h4>
+<h4 align="center">Plataformas de IA multi-tenant, sistemas de saúde e dados em produção ⚡</h4>
 
 <p align="center">
   <a href="https://dinho.dev" target="_blank">
@@ -11,19 +11,26 @@
 
 ---
 
+## 💼 Atualmente
+
+- 🤖 **Founding AI Platform Engineer @ Zuraio** (Suíça) — plataforma corporativa de agentes de IA multi-tenant: orquestração multi-agente com MCP, RAG, integrações com Microsoft 365, serviços em Go e observabilidade.
+- 🏥 **Senior Software Engineer @ Medflow Tech** — produtos de saúde em Django e React, pipelines de dados com Airflow e painéis no Apache Superset.
+
+---
+
 ## 🚀 Sobre mim
 
-Sou desenvolvedor com foco em **backend Python**, arquitetura limpa e APIs de alta performance, atuando também como **Full Stack** quando necessário.  
-Tenho experiência com **sistemas distribuídos**, **plataformas orientadas a dados**, **LLMs**, **infraestrutura**, **observabilidade** e **produtos escaláveis em produção**.
+Sou engenheiro de software com foco em **backend Python e Go**, atuando também como **Full Stack** quando necessário.  
+Tenho experiência com **plataformas de IA**, **sistemas distribuídos**, **sistemas de saúde pública e privada**, **engenharia de dados**, **infraestrutura** e **observabilidade**, sempre com produtos em produção.
 
 Trabalho principalmente com:
 
-- **APIs REST e serviços backend**
-- **Arquiteturas escaláveis e orientadas a domínio**
-- **Integração de LLMs, pipelines de IA e RAG**
-- **Automação, processamento de dados e orquestração**
+- **APIs REST e serviços backend** (Django, FastAPI, Go)
+- **Agentes de IA, orquestração de LLMs, MCP e RAG**
+- **Arquiteturas multi-tenant e orientadas a eventos**
+- **Pipelines de dados e BI** (Airflow, Superset)
 - **Frontends modernos com React + TypeScript**
-- **Docker, Nginx e cloud (AWS)**
+- **Docker, Terraform, CI/CD e cloud (AWS e Azure)**
 
 ---
 
@@ -66,6 +73,10 @@ Também sou autor de pacotes publicados no **PyPI**, como o [MaterialDash](https
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
 ---
